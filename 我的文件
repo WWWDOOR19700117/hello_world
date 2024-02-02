@@ -1,0 +1,20 @@
+2023 年，AI 的发展与应用脚步未曾放缓，诸多曾经看似不可能的科幻场景正在被一一实现。
+
+作为各大知名开源项目的初始诞生地，GitHub 每天都会出现许多实用、有趣的 AI 项目。
+
+下面我将盘点 GitHub 上几个近期比较值得关注的 AI 开源项目，希望对大家有所帮助。
+
+GitHub Copilot 开源教程
+去年 3 月，GitHub 正式发布了一款基于 AI 驱动的、跨时代代码编辑器 GitHub Copilot X，为开发者带来了前所未有的编程体验。
+
+其中包括基于 AI 对话生成代码、智能文档管理系统、通过语音让 AI 编写代码等操作，直接让一众开发者惊掉了下巴。
+
+前不久，微软专门针对这一工具，推出了完整的 GitHub Copilot 教程。
+
+教程共分 6 节，总时长为 10 小时，可帮助开发者快速上手 GitHub Copilot，利用 AI 来快速提升编程效率。
+
+教程中各个章节目录、简介、学习目标如下所示：
+
+图片
+
+GitHub：https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming
